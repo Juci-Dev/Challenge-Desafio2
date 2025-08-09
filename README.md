@@ -31,13 +31,17 @@ Incentivar cartão e débito automático.
 🛠 Tecnologias Utilizadas Pandas – Manipulação e análise de dados
 
 Matplotlib – Visualização dos dados em gráficos
-
 Seaborn – Gráficos estatísticos com estilo aprimorado
-
 NumPy – Operações numéricas e manipulação de arrays
-
 JSON
-
 Plotly Express – Gráficos interativos
-
 Requests – Requisições HTTP para APIs e dados externos
+Jupyter Notebook
+Python
+
+Paletas de cores:
+
+#64B5F6 - Azul claro
+#B39DDB - lilás claro
+
+
